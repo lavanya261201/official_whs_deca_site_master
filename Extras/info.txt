@@ -1,0 +1,12 @@
+Be sure to compress the website!!!
+cPanel Hosting --> Software --> Optimize Website --> Compress All Content --> Update
+
+Optimize all images!!!
+Use any online image compressor, and compress any new photos. Make sure to backup the orginal images.
+Some websites:
+https://compressor.io/compress
+http://compressnow.com/
+
+
+The .htaccess file is invisible in the File Manager. Use a FTP Client (like FileZilla) to edit it.
+//That is for caching if you didn't know
